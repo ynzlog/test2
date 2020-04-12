@@ -4,4 +4,4 @@ init
 
 result : solve by github code
 
-3nd conflict test : 
+3nd conflict test : 2020 April 12th
