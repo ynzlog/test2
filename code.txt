@@ -1,3 +1,7 @@
 init
 
 2nd code : conflict test
+
+result : solve by github code
+
+3nd conflict test : 
