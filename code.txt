@@ -4,4 +4,6 @@ init
 
 result : solve by github code
 
-3nd conflict test : 2020-04-12
+3rd conflict test : 2020 April 12th
+
+4st code
